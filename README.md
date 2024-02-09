@@ -40,7 +40,7 @@ Run the following command:
 sudo python3 main.py
 ```
 **Important: you need to modify the ```interface``` variable which in located directly after the main function**
-- Adjust the contamination parameter in the IsolationForest initialization to control the sensitivity of the anomaly detection algorithm.
+- Adjust the ```contamination``` parameter in the IsolationForest initialization to control the sensitivity of the anomaly detection algorithm.
 Monitor the console output for intercepted packets and their analysis results.
 
 
