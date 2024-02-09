@@ -2,6 +2,13 @@
 
 
 # Network Anomaly Detection Tool
+## Table of Contents
+- [Overview](#overview)
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [License](#license)
+  
 ## Overview
 This tool is designed for detecting abnormal behaviors in network traffic using the Unsupervised Isolation Forest algorithm. It intercepts network packets in real-time, analyzes them, and identifies suspicious activities that deviate from normal patterns.
 ### ScreenShot
